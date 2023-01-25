@@ -1,0 +1,6 @@
+[
+  {
+    "repository"  : "device_google_pantah",
+    "target_path" : "device/google/pantah"
+  }
+]
